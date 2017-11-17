@@ -9,3 +9,4 @@ http.cors.enabled: true
 http.cors.allow-origin: "*"
 node.ingest: false
 action.auto_create_index: false
+bootstrap.memory_lock: true
